@@ -106,7 +106,7 @@ SECRET_KEY=generer_une_cle_aleatoire
 
 - **Infrastructure** : 0€/mois (100% gratuit)
 - **Hébergement** : Streamlit Community Cloud (gratuit)
-- **Stockage** : Google Drive 2TB (déjà payé)
+- **Stockage** : Google Drive 2TB 
 - **APIs** : Plans gratuits suffisants
 
 ## 📝 Structure du projet
