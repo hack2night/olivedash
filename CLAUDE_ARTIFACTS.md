@@ -32,13 +32,13 @@ Créer les fichiers suivants dans le dossier `modules/`:
 ```
 
 #### `modules/auth.py` - Système d'authentification
-🔗 **Lien Claude**: https://claude.ai/chat/25a28b0a-5948-46c5-aa61-fe5afc95fea7?artifactId=olivedash_auth
+🔗 **Lien Claude**: https://claude.ai/chat/
 
 #### `modules/parcelles.py` - Gestion des parcelles
-🔗 **Lien Claude**: https://claude.ai/chat/25a28b0a-5948-46c5-aa61-fe5afc95fea7?artifactId=olivedash_parcelles
+🔗 **Lien Claude**: https://claude.ai/chat/
 
 #### `modules/logs.py` - Système de logs
-🔗 **Lien Claude**: https://claude.ai/chat/25a28b0a-5948-46c5-aa61-fe5afc95fea7?artifactId=olivedash_logs
+🔗 **Lien Claude**: https://claude.ai/
 
 #### `modules/data_manager.py`
 Créer un gestionnaire de données simple:
@@ -83,21 +83,21 @@ class DataManager:
 ```
 
 #### `utils/database.py` - Connexion Google Sheets
-🔗 **Lien Claude**: https://claude.ai/chat/25a28b0a-5948-46c5-aa61-fe5afc95fea7?artifactId=olivedash_database
+🔗 **Lien Claude**: https://claude.ai/chat/
 
 ---
 
 ### 3. Dossier `scripts/` (Scripts)
 
 #### `scripts/create_first_user.py` - Créer le premier utilisateur
-🔗 **Lien Claude**: https://claude.ai/chat/25a28b0a-5948-46c5-aa61-fe5afc95fea7?artifactId=olivedash_init_user
+🔗 **Lien Claude**: https://claude.ai/chat/
 
 ---
 
 ### 4. Dossier `.streamlit/` (Configuration Streamlit)
 
 #### `.streamlit/config.toml` - Configuration Streamlit
-🔗 **Lien Claude**: https://claude.ai/chat/25a28b0a-5948-46c5-aa61-fe5afc95fea7?artifactId=olivedash_streamlit_config
+🔗 **Lien Claude**: https://claude.ai/
 
 ---
 
@@ -115,22 +115,22 @@ class DataManager:
 ## 📝 Fichiers de documentation restants
 
 ### CHECKLIST.md - Liste de vérification
-🔗 **Lien Claude**: https://claude.ai/chat/25a28b0a-5948-46c5-aa61-fe5afc95fea7?artifactId=olivedash_checklist
+🔗 **Lien Claude**: https://claude.ai/chat/
 
 ### QUICKSTART.md - Démarrage rapide
-🔗 **Lien Claude**: https://claude.ai/chat/25a28b0a-5948-46c5-aa61-fe5afc95fea7?artifactId=olivedash_quickstart
+🔗 **Lien Claude**: https://claude.ai/
 
 ### STRUCTURE.md - Structure du projet
-🔗 **Lien Claude**: https://claude.ai/chat/25a28b0a-5948-46c5-aa61-fe5afc95fea7?artifactId=olivedash_structure
+🔗 **Lien Claude**: https://claude.ai/
 
 ### INSTALLATION_COMPLETE.md - Guide d'installation complet
-🔗 **Lien Claude**: https://claude.ai/chat/25a28b0a-5948-46c5-aa61-fe5afc95fea7?artifactId=olivedash_installation_complete
+🔗 **Lien Claude**: https://claude.ai/
 
 ### RESUME_PROJET.md - Résumé exécutif
-🔗 **Lien Claude**: https://claude.ai/chat/25a28b0a-5948-46c5-aa61-fe5afc95fea7?artifactId=olivedash_executive_summary
+🔗 **Lien Claude**: https://claude.ai/
 
 ### .env - Variables d'environnement (Template)
-🔗 **Lien Claude**: https://claude.ai/chat/25a28b0a-5948-46c5-aa61-fe5afc95fea7?artifactId=olivedash_env
+🔗 **Lien Claude**: https://claude.ai/chat/
 
 ---
 
